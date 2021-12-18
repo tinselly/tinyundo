@@ -1,0 +1,15 @@
+
+# Ignore editors
+
+.vs
+.vscode
+
+# Ignore build directory
+
+build/*
+!build/.gitkeep
+out/
+
+# Ignore user files
+
+CMakeLists.txt*.user
